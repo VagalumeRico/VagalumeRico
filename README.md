@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Designer, Web Developer and Modellator 3D.
 ------------------------------------------
 
-I've been studying programming, design, and 3D modeling for a year and a half, and I have experience with Lua, NodeJS, and Python. In Lua, I've created several mods for MTA (Multi Theft Auto: San Andreas) and some code such as a calculator that saves your results and calculations in a database. In NodeJS, I've created a robot for a Discord server with over 2.2k members, and I've operated it with great efficiency despite the difficulty of managing so many users at once. Finally, in Python, I've created a window using tkinter that creates a folder for me with pre-configured files for use in MTA mods.
+I've been studying programming, design, and 3D modeling for a year and a half, and I have experience with Lua, NodeJS, and Python. In Lua, I've created several mods for MTA (Multi Theft Auto: San Andreas) and some code such as a calculator that saves your results and calculations in a database. In NodeJS, I've created a robot for a Discord server with over 6k members, and I've operated it with great efficiency despite the difficulty of managing so many users at once. Finally, in Python, I've created a window using tkinter that creates a folder for me with pre-configured files for use in MTA mods.
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [vagalumerico@gmail.com](mailto:vagalumerico@gmail.com)
